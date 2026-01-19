@@ -1,6 +1,6 @@
 # Customer Churn Prediction Model
 
-Model to predicts which telecom customers are likely to cancel their subscriptions.
+Model to predicts which customers are likely to cancel their subscriptions.
 
 ## 🌟 Highlights
 
